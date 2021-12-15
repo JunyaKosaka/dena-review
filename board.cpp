@@ -1,4 +1,4 @@
-#include "dena.hpp"
+#include "game.hpp"
 
 t_board change_board(t_board board, int row, char c) {
     for (int i = Y_SIZE - 1; i >= 0; i--) {

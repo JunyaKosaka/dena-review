@@ -19,5 +19,6 @@ void draw_line();
 void draw_board(t_board board);
 t_board change_board(t_board board, int row, char c);
 t_board init_board();
+void game(t_board board, vector<string> player);
 
 #endif  // GAME_HPP

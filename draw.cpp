@@ -1,4 +1,4 @@
-#include "dena.hpp"
+#include "game.hpp"
 
 static void set_row_num() {
     cout << "\x1b[31m";

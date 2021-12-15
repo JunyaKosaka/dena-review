@@ -1,4 +1,4 @@
-#include "dena.hpp"
+#include "game.hpp"
 
 static bool check_diagonal(t_board board, int y, int x, char c) {
 	int cnt = 0;
