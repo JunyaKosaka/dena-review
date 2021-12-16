@@ -1,4 +1,4 @@
-NAME = a.out
+NAME = fourinrow
 CC = clang++
 STD = -std=c++98
 SRCS = main.cpp board.cpp check.cpp draw.cpp input.cpp \
