@@ -1,6 +1,6 @@
 4目並べ
 
-<img width="190" alt="Screen Shot 2021-12-17 at 1 18 10" src="https://user-images.githubusercontent.com/35888224/146408644-933be392-86fe-4b4b-af11-eae348a6a5a4.png">
+<img width="190" alt="Screen Shot 2021-12-17 at 1 21 13" src="https://user-images.githubusercontent.com/35888224/146409216-ca4bb517-df02-4ed3-bc3d-4ae01257554b.png">
 
 Usage
 
