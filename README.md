@@ -5,9 +5,7 @@
 Usage
 
 git clone https://github.com/JunyaKosaka/dena-review.git
-
 cd dena-review
-
 make
 
 ./fourinrow
