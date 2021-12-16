@@ -1,6 +1,6 @@
 4目並べ
 
-
+https://github.com/JunyaKosaka/dena-review/issues/1
 
 Usage
 
