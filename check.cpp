@@ -44,6 +44,7 @@ bool have_finished(t_board board, int turn) {
     }
     rep(i, Y_SIZE) rep(j, X_SIZE) {
         // i, jが左端
+        if (i && j && i < Y_SIZE - 1) continue;
 		if (check_diagonal(board, i, j, c)) return 1;
     }
     return 0;
